@@ -22,7 +22,6 @@ from __future__ import print_function
 import os
 import re
 import cv2
-import argparse
 import numpy as np
 
 from PIL import Image
